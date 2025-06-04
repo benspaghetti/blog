@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Construction of the Schramm-Loewner Evolution: A Review",
+    "url": "/posts/sle_construction/",
+    "categories": "maths",
+    "tags": "probability,, sle",
+    "date": "2025-05-20 00:00:00 +0800",
+    "content": "I first learned about the theory of Schramm-Loewner Evolutions (SLE) after learning about the conjectured conformal invariance of two-dimensional critical percolation through the article Percolatio..."
+  },
+  {
+    "title": "Mengology - Advanced Algebra I - Lecture 3",
+    "url": "/posts/advalg3/",
+    "categories": "maths",
+    "tags": "advanced_algebra",
+    "date": "2024-09-09 00:00:00 +0800",
+    "content": "Ideas in Mathematics The idea of continuity. We have a beautiful formula  [\lvert B^A \rvert = \lvert B \rvert ^ {\lvert A \rvert}.]  But what happens when at least one of $A$ and $B$ are empty? Th..."
+  },
+  {
+    "title": "Calculus III - Lecture 8",
+    "url": "/posts/calc3_9/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-29 00:00:00 +0800",
+    "content": "Lecture highlights:     More details about the construction of our category of mappings between subsets of Euclidean spaces   The velocity functor   Pushforward map   Definition of smooth manifold ..."
+  },
+  {
+    "title": "Calculus III - Lecture 8",
+    "url": "/posts/calc3_8/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-29 00:00:00 +0800",
+    "content": "Lecture highlights:  We just talk about the category of smooth maps between subsets of Euclidean spaces in this lecture.     We prove that these maps indeed form a category.   Graphs are naturally ..."
+  },
+  {
+    "title": "Calculus III - Lecture 7",
+    "url": "/posts/calc3_7/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-27 00:00:00 +0800",
+    "content": "Lecture highlights:     $T$ is a functor   A big picture for what is to come.   Meth  Few meth today, mostly the cold hard truth. Well is mathematics truth? I don’t know. (For the few of you who wa..."
+  },
+  {
+    "title": "Calculus III - Lecture 6",
+    "url": "/posts/calc3_6/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-22 00:00:00 +0800",
+    "content": "Lecture highlights:     symmetries   quadrics   high school mathematics   multivariable calculus   high school mathematics   Meth  Obviously he like these stuff, that’s why he mething a lot these p..."
+  },
+  {
+    "title": "Calculus III - Lecture 5",
+    "url": "/posts/calc3_5/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-20 00:00:00 +0800",
+    "content": "Lecture highlights:     Euclidean structure   Categories and functors   Meth  He methed a lot this lecture!  In the Greek times, they believed that the Earth is the centre of the universe. They tho..."
+  },
+  {
+    "title": "Calculus III - Lecture 4",
+    "url": "/posts/calc3_4/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-15 00:00:00 +0800",
+    "content": "Today we talk about affine spaces. We only care about stuff over the real numbers in this course.  Lecture highlights:     Definition   We have a ‘dictionary’ between vector space and affine space ..."
+  },
+  {
+    "title": "This Week I Learned - W06 - 2024",
+    "url": "/posts/tw_1/",
+    "categories": "maths",
+    "tags": "this_week",
+    "date": "2024-02-10 00:00:00 +0800",
+    "content": "Update 2024-09-09: Look at how this went.     p-adic distance   ultra-metric   $\sigma$-finite measure: the measure space can be decomposed into a countable sequence of sets with finite measure   c..."
+  },
+  {
+    "title": "Calculus III - Lecture 3",
+    "url": "/posts/calc3_3/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-08 00:00:00 +0800",
+    "content": "I cannot claim to have a summary of the whole lecture, that’s why I switched the wording to ‘highlights’  Lecture highlights:     tensor algebra   graded vector space   determinants   M: Do abstrac..."
+  },
+  {
+    "title": "Calculus III - Lecture 2",
+    "url": "/posts/calc3_2/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-06 00:00:00 +0800",
+    "content": "Calculus on Mengnifolds  I have no idea what happened this lecture.  Lecture highlights:     Notations   Review of linear algebra   The set of bases of $V$ may be naturally identified with the set ..."
+  },
+  {
+    "title": "Calculus III - Lecture 1",
+    "url": "/posts/calc3_1/",
+    "categories": "maths",
+    "tags": "calculus_iii",
+    "date": "2024-02-01 00:00:00 +0800",
+    "content": "Lecture summary (roughly this time, but will get more detailed in later lectures):    Waffle about metamathematical content   Rough overview of the course   Group and field actions   A field is som..."
+  },
+  {
+    "title": "The Chain Rule",
+    "url": "/posts/chain/",
+    "categories": "maths",
+    "tags": "",
+    "date": "2024-01-31 00:00:00 +0800",
+    "content": "The proof of the single-variable chain rule below is based on one given by Prof. Frederick Fong in his MATH1023 lecture notes, taught at HKUST. Before reading this post, it is strongly recommended ..."
+  },
+  {
+    "title": "Some Inequalities",
+    "url": "/posts/intuitform/",
+    "categories": "maths",
+    "tags": "",
+    "date": "2023-11-04 00:00:00 +0800",
+    "content": "So I am really bad at inequalities. Last month I learned something so I will share it here yeah. I will probably upload all my course notes somewhere after I’m done with this course.  I think in de..."
+  },
+  {
+    "title": "Equality Axiom",
+    "url": "/posts/eaton/",
+    "categories": "maths",
+    "tags": "",
+    "date": "2023-08-20 00:00:00 +0800",
+    "content": "Note: This is a guest post by my friend Eaton Liu.  Everyone is equal. People are saying this way too often, to an extent that they no longer understand what it means. For example, some people may ..."
+  },
+  {
+    "title": "I Hate Indices",
+    "url": "/posts/indices/",
+    "categories": "maths",
+    "tags": "",
+    "date": "2023-05-16 00:00:00 +0800",
+    "content": "I hate indices, every last one of them. I don’t mean indices as in power, the little number on the top right corner of a bigger number, nor a measure of something, often seen ticking in stock excha..."
+  },
+  {
+    "title": "An Absolutely Trivial Inequality",
+    "url": "/posts/absolute/",
+    "categories": "maths",
+    "tags": "",
+    "date": "2023-05-16 00:00:00 +0800",
+    "content": "In this post I will talk about the absolutely trivial inequality  [x \leq \lvert x \rvert .]  This is easily seen. If $x$ is positive, it is equal to its absolute value. If it is negative, it is of..."
+  },
+  {
+    "title": "How I would teach maths to an uninitiated mind",
+    "url": "/posts/child/",
+    "categories": "education",
+    "tags": "",
+    "date": "2023-03-06 00:00:00 +0800",
+    "content": "Don’t pull out the Soviet/French curriculum. We assume the average intelligence walking monkey.  Modern mathematics (for now at least) builds on sets. Of course mathematics is not all about studyin..."
+  },
+  {
+    "title": "A neat trick with inverse trigonometric functions",
+    "url": "/posts/arctan/",
+    "categories": "maths",
+    "tags": "",
+    "date": "2023-01-25 00:00:00 +0800",
+    "content": "Update 2023-01-25: So I first encountered this in a STEP problem 00-S2-Q4 on STEP Database. Today I found something that is relevant and it’s Machin’s formula and its generalisations.  Update 2022-..."
+  },
+  {
+    "title": "Origin of the Theory of Measure (Family Friendly Edition)",
+    "url": "/posts/measureff/",
+    "categories": "maths",
+    "tags": "",
+    "date": "2022-12-29 00:00:00 +0800",
+    "content": "Once upon a time there was an Amazonian tribe with an interesting tradition. Every person plant cucumbers and each year they would measure the length of their longest cucumber. The person with the ..."
+  },
+  {
+    "title": "Hoarder Culture in Mathematics Learning",
+    "url": "/posts/mathshoarding/",
+    "categories": "education",
+    "tags": "",
+    "date": "2022-12-15 00:00:00 +0800",
+    "content": "I would consider myself somewhat of a hoarder. I just don’t throw away stuff. I collect stuff. I don’t spend fake internet money in games (getting better now). Yet this hoarding culture may in some..."
+  },
+  {
+    "title": "SPEEEEEEEEEEEEED",
+    "url": "/posts/sped/",
+    "categories": "stuff",
+    "tags": "",
+    "date": "2022-11-02 00:00:00 +0800",
+    "content": "So as you may or may not know I have been feeling pretty trash for the last two years. Online lessons since F.3 might have had something to do with it. (I might have also had COVID without knowing ..."
+  },
+  {
+    "title": "Possible JUPAS / Life Exploit?",
+    "url": "/posts/retardjupas/",
+    "categories": "education",
+    "tags": "",
+    "date": "2022-08-09 00:00:00 +0800",
+    "content": "Update 2024-09-09: If you know me then you know what happened and why this post is kind of ironic.  CORRECT ME IF THERE IS ANY MISTAKE  NONE OF THIS IS CONFIRMED, I WILL NOT TAKE RESPONSIBILITY FOR..."
+  },
+  {
+    "title": "How to go to MIT as a Hong Kong Student in 10 Easy Steps",
+    "url": "/posts/mit/",
+    "categories": "stuff",
+    "tags": "",
+    "date": "2022-04-14 00:00:00 +0800",
+    "content": "Book a flight from Hong Kong to Boston   Go to Hong Kong International Airport   Following the instructions provided by the airline or your boarding ticket, get onto the plane   Remember to tell ev..."
+  }
+  
+]
+

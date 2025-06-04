@@ -1,0 +1,18 @@
+current directory: /mnt/d/benspaghetti.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-3.4.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/d/benspaghetti.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250604-5650-9l3vee sitelibdir\=./.gem.20250604-5650-9l3vee clean
+
+current directory: /mnt/d/benspaghetti.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250604-5650-9l3vee sitelibdir\=./.gem.20250604-5650-9l3vee
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /mnt/d/benspaghetti.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250604-5650-9l3vee sitelibdir\=./.gem.20250604-5650-9l3vee install
+/usr/bin/install -m 0755 cparse.so ./.gem.20250604-5650-9l3vee/racc
+
+current directory: /mnt/d/benspaghetti.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250604-5650-9l3vee sitelibdir\=./.gem.20250604-5650-9l3vee clean

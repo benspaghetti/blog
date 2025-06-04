@@ -1,0 +1,143 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://www.peasantmaths.com/</id>
+  <title>Peasant Maths</title>
+  <subtitle>Incoherent ramblings of a maths undergrad</subtitle>
+  <updated>2025-06-04T20:40:19+08:00</updated>
+  <author>
+    <name>Ben Zhang</name>
+    <uri>https://www.peasantmaths.com/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://www.peasantmaths.com/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://www.peasantmaths.com/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Ben Zhang </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Construction of the Schramm-Loewner Evolution: A Review</title>
+    <link href="https://www.peasantmaths.com/posts/sle_construction/" rel="alternate" type="text/html" title="Construction of the Schramm-Loewner Evolution: A Review" />
+    <published>2025-05-20T00:00:00+08:00</published>
+  
+    <updated>2025-05-20T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/sle_construction/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/sle_construction/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+    <category term="maths" />
+    
+  
+
+  <summary>I first learned about the theory of Schramm-Loewner Evolutions (SLE) after learning about the conjectured conformal invariance of two-dimensional critical percolation through the article Percolation: Slipping through the Cracks. This phenomenon on the triangular lattice has been proven by Stanislav Smirnov, which won him the Fields Medal. Now, more than a year later, I am finally learning the r...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Mengology - Advanced Algebra I - Lecture 3</title>
+    <link href="https://www.peasantmaths.com/posts/advalg3/" rel="alternate" type="text/html" title="Mengology - Advanced Algebra I - Lecture 3" />
+    <published>2024-09-09T00:00:00+08:00</published>
+  
+    <updated>2024-09-09T16:52:23+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/advalg3/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/advalg3/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+    <category term="maths" />
+    
+  
+
+  <summary>Ideas in Mathematics The idea of continuity. We have a beautiful formula  [\lvert B^A \rvert = \lvert B \rvert ^ {\lvert A \rvert}.]  But what happens when at least one of $A$ and $B$ are empty? Then we set some conventions.  The most important theorems in mathematics are those that are EASY to prove.  Let other people do the unnatural things, and you do the natural thing, then life is much eas...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Calculus III - Lecture 8</title>
+    <link href="https://www.peasantmaths.com/posts/calc3_9/" rel="alternate" type="text/html" title="Calculus III - Lecture 8" />
+    <published>2024-02-29T00:00:00+08:00</published>
+  
+    <updated>2024-02-29T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/calc3_9/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/calc3_9/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+    <category term="maths" />
+    
+  
+
+  <summary>Lecture highlights:     More details about the construction of our category of mappings between subsets of Euclidean spaces   The velocity functor   Pushforward map   Definition of smooth manifold   Meth  No meth today, just all technicalities.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Calculus III - Lecture 8</title>
+    <link href="https://www.peasantmaths.com/posts/calc3_8/" rel="alternate" type="text/html" title="Calculus III - Lecture 8" />
+    <published>2024-02-29T00:00:00+08:00</published>
+  
+    <updated>2024-02-29T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/calc3_8/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/calc3_8/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+    <category term="maths" />
+    
+  
+
+  <summary>Lecture highlights:  We just talk about the category of smooth maps between subsets of Euclidean spaces in this lecture.     We prove that these maps indeed form a category.   Graphs are naturally equivalent to the domain of their function.   We provide a physical understanding of this category. We do calculus on them.   Please introduce mengnifolds next lecture…  Meth  Pure maths is much easie...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Calculus III - Lecture 7</title>
+    <link href="https://www.peasantmaths.com/posts/calc3_7/" rel="alternate" type="text/html" title="Calculus III - Lecture 7" />
+    <published>2024-02-27T00:00:00+08:00</published>
+  
+    <updated>2024-02-29T13:03:55+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/calc3_7/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/calc3_7/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+    <category term="maths" />
+    
+  
+
+  <summary>Lecture highlights:     $T$ is a functor   A big picture for what is to come.   Meth  Few meth today, mostly the cold hard truth. Well is mathematics truth? I don’t know. (For the few of you who want to say something, I don’t care either. (This might suggest that I absolutely think mathematics is truth and am very firm on this, or I don’t think mathematics is truth. Whatever.))  Throughout earl...</summary>
+
+  </entry>
+
+</feed>
+
+
