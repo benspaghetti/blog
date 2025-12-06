@@ -15,5 +15,4 @@ A large part of the recent developments on the loop-erased random walk (LERW) ha
 
 ## Footnotes
 
-[^1]: Remark 1.5.2, Convergence of three-dimensional loop-erased random
-walk in the natural parametrization, Li & Shiraishi
+[^1]: Remark 1.5.2, Convergence of three-dimensional loop-erased random walk in the natural parametrization, Li & Shiraishi
