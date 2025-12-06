@@ -4,7 +4,7 @@
   <id>https://www.peasantmaths.com/</id>
   <title>Peasant Maths</title>
   <subtitle>Incoherent ramblings of a maths undergrad</subtitle>
-  <updated>2025-06-04T22:17:57+08:00</updated>
+  <updated>2025-12-07T03:11:28+08:00</updated>
   <author>
     <name>Ben Zhang</name>
     <uri>https://www.peasantmaths.com/</uri>
@@ -20,11 +20,79 @@
 
   
   <entry>
+    <title>Year 2 Summer at HKUST</title>
+    <link href="https://www.peasantmaths.com/posts/y2summer/" rel="alternate" type="text/html" title="Year 2 Summer at HKUST" />
+    <published>2025-09-07T00:00:00+08:00</published>
+  
+    <updated>2025-09-07T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/y2summer/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/y2summer/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>It is funny writing this after my first week at UBC, but here we are. It is clear that this blog has gotten increasingly unhinged. Some divine power must have seen this and thought I was too cocky and gave me a complete failure of a summer.  I did a course on probability for engineers, I failed miserably. I did a UROP project, I failed miserably.  I am at the zeroth step of research: finding a ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Year 2 Spring at HKUST</title>
+    <link href="https://www.peasantmaths.com/posts/y2spring/" rel="alternate" type="text/html" title="Year 2 Spring at HKUST" />
+    <published>2025-06-17T00:00:00+08:00</published>
+  
+    <updated>2025-06-17T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/y2spring/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/y2spring/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I started writing this on the first day of the summer term (June 16). Somehow I think my memory got even worse, I cannot remember much of what went on at the start of the semester. But what I can recall is that I was a bit distraught about the lack of courses. Originally, I was really looking forward to the course ‘Mathematical Structures in Modern Statistical Physics and Quantum Field Theory’,...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Comments on "Construction of the Schramm-Loewner Evolution: A Review"</title>
+    <link href="https://www.peasantmaths.com/posts/comments_on_sle_construction/" rel="alternate" type="text/html" title="Comments on &amp;quot;Construction of the Schramm-Loewner Evolution: A Review&amp;quot;" />
+    <published>2025-06-05T00:00:00+08:00</published>
+  
+    <updated>2025-06-05T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/comments_on_sle_construction/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/comments_on_sle_construction/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+    <category term="maths" />
+    
+  
+
+  <summary>On scaling limits in higher dimensions  A large part of the recent developments on the loop-erased random walk (LERW) have been focused on its scaling limit in three dimensions. As of now, the biggest problem is in describing this scaling limit directly in the continuum, analogous to the SLE in two dimensions. As far as I know, there is not much progress 1.  Footnotes  walk in the natural param...</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Construction of the Schramm-Loewner Evolution: A Review</title>
     <link href="https://www.peasantmaths.com/posts/sle_construction/" rel="alternate" type="text/html" title="Construction of the Schramm-Loewner Evolution: A Review" />
     <published>2025-05-20T00:00:00+08:00</published>
   
-    <updated>2025-06-04T21:41:02+08:00</updated>
+    <updated>2025-12-07T03:00:36+08:00</updated>
   
     <id>https://www.peasantmaths.com/posts/sle_construction/</id>
     <content type="text/html" src="https://www.peasantmaths.com/posts/sle_construction/" />
@@ -44,97 +112,23 @@
 
   
   <entry>
-    <title>Mengology - Advanced Algebra I - Lecture 3</title>
-    <link href="https://www.peasantmaths.com/posts/advalg3/" rel="alternate" type="text/html" title="Mengology - Advanced Algebra I - Lecture 3" />
-    <published>2024-09-09T00:00:00+08:00</published>
+    <title>Year 2 Fall at HKUST</title>
+    <link href="https://www.peasantmaths.com/posts/y2fall/" rel="alternate" type="text/html" title="Year 2 Fall at HKUST" />
+    <published>2025-01-20T00:00:00+08:00</published>
   
-    <updated>2024-09-09T00:00:00+08:00</updated>
+    <updated>2025-01-20T00:00:00+08:00</updated>
   
-    <id>https://www.peasantmaths.com/posts/advalg3/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/advalg3/" />
+    <id>https://www.peasantmaths.com/posts/y2fall/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/y2fall/" />
     <author>
       <name>Ben Zhang</name>
     </author>
 
   
     
-    <category term="maths" />
-    
   
 
-  <summary>Ideas in Mathematics The idea of continuity. We have a beautiful formula  [\lvert B^A \rvert = \lvert B \rvert ^ {\lvert A \rvert}.]  But what happens when at least one of $A$ and $B$ are empty? Then we set some conventions.  The most important theorems in mathematics are those that are EASY to prove.  Let other people do the unnatural things, and you do the natural thing, then life is much eas...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Calculus III - Lecture 8</title>
-    <link href="https://www.peasantmaths.com/posts/calc3_9/" rel="alternate" type="text/html" title="Calculus III - Lecture 8" />
-    <published>2024-02-29T00:00:00+08:00</published>
-  
-    <updated>2024-02-29T00:00:00+08:00</updated>
-  
-    <id>https://www.peasantmaths.com/posts/calc3_9/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/calc3_9/" />
-    <author>
-      <name>Ben Zhang</name>
-    </author>
-
-  
-    
-    <category term="maths" />
-    
-  
-
-  <summary>Lecture highlights:     More details about the construction of our category of mappings between subsets of Euclidean spaces   The velocity functor   Pushforward map   Definition of smooth manifold   Meth  No meth today, just all technicalities.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Calculus III - Lecture 8</title>
-    <link href="https://www.peasantmaths.com/posts/calc3_8/" rel="alternate" type="text/html" title="Calculus III - Lecture 8" />
-    <published>2024-02-29T00:00:00+08:00</published>
-  
-    <updated>2024-02-29T00:00:00+08:00</updated>
-  
-    <id>https://www.peasantmaths.com/posts/calc3_8/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/calc3_8/" />
-    <author>
-      <name>Ben Zhang</name>
-    </author>
-
-  
-    
-    <category term="maths" />
-    
-  
-
-  <summary>Lecture highlights:  We just talk about the category of smooth maps between subsets of Euclidean spaces in this lecture.     We prove that these maps indeed form a category.   Graphs are naturally equivalent to the domain of their function.   We provide a physical understanding of this category. We do calculus on them.   Please introduce mengnifolds next lecture…  Meth  Pure maths is much easie...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Calculus III - Lecture 7</title>
-    <link href="https://www.peasantmaths.com/posts/calc3_7/" rel="alternate" type="text/html" title="Calculus III - Lecture 7" />
-    <published>2024-02-27T00:00:00+08:00</published>
-  
-    <updated>2024-02-27T00:00:00+08:00</updated>
-  
-    <id>https://www.peasantmaths.com/posts/calc3_7/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/calc3_7/" />
-    <author>
-      <name>Ben Zhang</name>
-    </author>
-
-  
-    
-    <category term="maths" />
-    
-  
-
-  <summary>Lecture highlights:     $T$ is a functor   A big picture for what is to come.   Meth  Few meth today, mostly the cold hard truth. Well is mathematics truth? I don’t know. (For the few of you who want to say something, I don’t care either. (This might suggest that I absolutely think mathematics is truth and am very firm on this, or I don’t think mathematics is truth. Whatever.))  Throughout earl...</summary>
+  <summary>Hello and welcome to another session of pitiful self-reflection. I have already written a version of this on Zhihu, which is an account of what I have done in 2024 and my plans for the new year ahead. But I didn’t really go deep into anything in that post so I might as well write something.  TL;DR: I started strong this term, then suddenly my brain didn’t work for a month and fell off.  Actuall...</summary>
 
   </entry>
 

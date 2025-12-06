@@ -1,11 +1,67 @@
 [
   {
+    "title": "Year 2 Summer at HKUST",
+    "url": "/posts/y2summer/",
+    "categories": "",
+    "tags": "migrated, personal, HKUST",
+    "date": "2025-09-07 00:00:00 +0800",
+    "content": "It is funny writing this after my first week at UBC, but here we are. It is clear that this blog has gotten increasingly unhinged. Some divine power must have seen this and thought I was too cocky ..."
+  },
+  {
+    "title": "Year 2 Spring at HKUST",
+    "url": "/posts/y2spring/",
+    "categories": "",
+    "tags": "migrated, personal, HKUST",
+    "date": "2025-06-17 00:00:00 +0800",
+    "content": "I started writing this on the first day of the summer term (June 16). Somehow I think my memory got even worse, I cannot remember much of what went on at the start of the semester. But what I can r..."
+  },
+  {
+    "title": "Comments on \"Construction of the Schramm-Loewner Evolution: A Review\"",
+    "url": "/posts/comments_on_sle_construction/",
+    "categories": "maths",
+    "tags": "sle, lerw, laplacian_rw",
+    "date": "2025-06-05 00:00:00 +0800",
+    "content": "On scaling limits in higher dimensions  A large part of the recent developments on the loop-erased random walk (LERW) have been focused on its scaling limit in three dimensions. As of now, the bigg..."
+  },
+  {
     "title": "Construction of the Schramm-Loewner Evolution: A Review",
     "url": "/posts/sle_construction/",
     "categories": "maths",
-    "tags": "probability, sle",
+    "tags": "sle",
     "date": "2025-05-20 00:00:00 +0800",
     "content": "I first learned about the theory of Schramm-Loewner Evolutions (SLE) after learning about the conjectured conformal invariance of two-dimensional critical percolation through the article Percolatio..."
+  },
+  {
+    "title": "Year 2 Fall at HKUST",
+    "url": "/posts/y2fall/",
+    "categories": "",
+    "tags": "migrated, personal, HKUST",
+    "date": "2025-01-20 00:00:00 +0800",
+    "content": "Hello and welcome to another session of pitiful self-reflection. I have already written a version of this on Zhihu, which is an account of what I have done in 2024 and my plans for the new year ahe..."
+  },
+  {
+    "title": "Post Midterm Brights",
+    "url": "/posts/postmidterm2024/",
+    "categories": "",
+    "tags": "migrated, Life, HKUST",
+    "date": "2024-11-05 00:00:00 +0800",
+    "content": "Third blog post within one week! By the way I love post-midterm UST. The campus is a lot more empty.  It is more than a week after my last midterm (Honors Real Analysis) has ended. Now that I am on..."
+  },
+  {
+    "title": "Future Science Prize Symposium 2024",
+    "url": "/posts/future-science-symposium-2024/",
+    "categories": "",
+    "tags": "migrated",
+    "date": "2024-11-02 00:00:00 +0800",
+    "content": "Two blog posts in one week!  Today I went to the mathematics session of the Future Science Prize Symposium. The four talks given were     A Glimpse at Statistical Physics from Percolation - Jian Di..."
+  },
+  {
+    "title": "My First HK Probability Seminar",
+    "url": "/posts/my-first-prob-seminar/",
+    "categories": "",
+    "tags": "migrated",
+    "date": "2024-10-30 00:00:00 +0800",
+    "content": "Yesterday, I attended my first Hong Kong Probability Seminar. Gefei Cai, from Peking, spoke about the 3 point connectivity problem in 2D critical percolation.  Perhaps I should heed Ravi Vakil’s ad..."
   },
   {
     "title": "Mengology - Advanced Algebra I - Lecture 3",
@@ -14,6 +70,62 @@
     "tags": "advanced_algebra",
     "date": "2024-09-09 00:00:00 +0800",
     "content": "Ideas in Mathematics The idea of continuity. We have a beautiful formula  [\lvert B^A \rvert = \lvert B \rvert ^ {\lvert A \rvert}.]  But what happens when at least one of $A$ and $B$ are empty? Th..."
+  },
+  {
+    "title": "Week 1, Year 2 Fall",
+    "url": "/posts/week1fall2425/",
+    "categories": "",
+    "tags": "migrated, HKUST, Life",
+    "date": "2024-09-07 00:00:00 +0800",
+    "content": "Going into Year 2, I am rather uncertain about my goals this year. On the one hand, I have already started working my way into the field of statistical mechanics and random geometry. Yet, I lack th..."
+  },
+  {
+    "title": "The State of Probability at HKUST",
+    "url": "/posts/hkust-proba/",
+    "categories": "",
+    "tags": "migrated, HKUST",
+    "date": "2024-09-02 00:00:00 +0800",
+    "content": "Just a post to provide some information. As one might have noticed, Prof. Bao has left HKUST to join HKU starting from this academic year. Fortunately, Prof. Nitzschner has joined us last year, so ..."
+  },
+  {
+    "title": "Year 1 Summer at HKUST",
+    "url": "/posts/y1summer/",
+    "categories": "",
+    "tags": "migrated, Life, HKUST",
+    "date": "2024-08-12 00:00:00 +0800",
+    "content": "This is the last time that I can call myself year 1. Actually that day probably ended since JUPAS registration. Not sure. Well if the student centre says I’m year 1 (it does), then I guess I still ..."
+  },
+  {
+    "title": "A Survey of Personal Wiki Software",
+    "url": "/posts/wiki/",
+    "categories": "",
+    "tags": "migrated, documentation",
+    "date": "2024-07-28 00:00:00 +0800",
+    "content": "I just spent the whole evening messing with personal wikis. I have been wanting to create a personal wiki for my maths notes for quite some time. The short conclusion is that there are currently no..."
+  },
+  {
+    "title": "Year 1 Spring at HKUST",
+    "url": "/posts/y1spring/",
+    "categories": "",
+    "tags": "migrated, Life, HKUST",
+    "date": "2024-06-28 00:00:00 +0800",
+    "content": "Sorry to the three readers of my blog. This is a very late post, two weeks after the start of the summer term.  This has been a chaotic term. Check my course list for more details. Honestly, it has..."
+  },
+  {
+    "title": "Some Words on IRE Transfer",
+    "url": "/posts/ire/",
+    "categories": "",
+    "tags": "migrated, HKUST, applications",
+    "date": "2024-06-28 00:00:00 +0800",
+    "content": "I first posted this on UST Space, a course review website for HKUST students. I will copy it here as well.  Now that I have successfully transferred to IRE, and that my reviews have uniquely reveal..."
+  },
+  {
+    "title": "My Shengxiao is Chicken",
+    "url": "/posts/failure/",
+    "categories": "",
+    "tags": "migrated, personal",
+    "date": "2024-04-12 00:00:00 +0800",
+    "content": "I have failed. As I am writing these words, I am doing something that I would not be doing had things gone the right way. (There is a grammar mistake here somewhere, I am sure.) Right now, 100 mete..."
   },
   {
     "title": "Calculus III - Lecture 8",
@@ -88,6 +200,14 @@
     "content": "Calculus on Mengnifolds  I have no idea what happened this lecture.  Lecture highlights:     Notations   Review of linear algebra   The set of bases of $V$ may be naturally identified with the set ..."
   },
   {
+    "title": "An Eventful Three Days",
+    "url": "/posts/eventful/",
+    "categories": "",
+    "tags": "migrated, Life, HKUST",
+    "date": "2024-02-03 00:00:00 +0800",
+    "content": "The first (incomplete) week of the Spring term has ended. The term commenced on Wednesday, Jan 31. I am writing on Saturday, Feb 3, and I am already exhausted. But I did learn a lot from the past t..."
+  },
+  {
     "title": "Calculus III - Lecture 1",
     "url": "/posts/calc3_1/",
     "categories": "maths",
@@ -104,12 +224,36 @@
     "content": "The proof of the single-variable chain rule below is based on one given by Prof. Frederick Fong in his MATH1023 lecture notes, taught at HKUST. Before reading this post, it is strongly recommended ..."
   },
   {
+    "title": "Year 1 Fall at HKUST",
+    "url": "/posts/y1fall/",
+    "categories": "",
+    "tags": "migrated, personal, HKUST",
+    "date": "2023-12-31 00:00:00 +0800",
+    "content": "Inspired by Toby Lam, here is some life update.  Lying flat  Lie flat is me. Before the midterm, it was still alright, I was engaged in some sort of work for several hours per day, even though some..."
+  },
+  {
     "title": "Some Inequalities",
     "url": "/posts/intuitform/",
     "categories": "maths",
     "tags": "",
     "date": "2023-11-04 00:00:00 +0800",
     "content": "So I am really bad at inequalities. Last month I learned something so I will share it here yeah. I will probably upload all my course notes somewhere after I’m done with this course.  I think in de..."
+  },
+  {
+    "title": "HKUST converted me into a semi-vegetarian,",
+    "url": "/posts/veggies/",
+    "categories": "",
+    "tags": "migrated, Life, HKUST",
+    "date": "2023-09-14 00:00:00 +0800",
+    "content": "2024 September update: RIP TT Veggies.  and this is how: Imagine that you have a perfectly conventional schedule: your lunch is between 1200 and 1300 every single day. After your morning classes, y..."
+  },
+  {
+    "title": "Lessons in learning from a piano master class",
+    "url": "/posts/masterclass/",
+    "categories": "",
+    "tags": "migrated, Life",
+    "date": "2023-09-14 00:00:00 +0800",
+    "content": "Today I went to some master class in the Shaw Auditorium (mainly to satisfy some requirement). At the end, some guy asked in the Q&amp;amp;A session about what piano students who are disadvantaged reso..."
   },
   {
     "title": "Equality Axiom",
@@ -136,12 +280,44 @@
     "content": "In this post I will talk about the absolutely trivial inequality  [x \leq \lvert x \rvert .]  This is easily seen. If $x$ is positive, it is equal to its absolute value. If it is negative, it is of..."
   },
   {
+    "title": "My 0th Day as a Mathematics Student",
+    "url": "/posts/first-day/",
+    "categories": "",
+    "tags": "migrated, Life",
+    "date": "2023-05-08 00:00:00 +0800",
+    "content": "Today is my 0th day as a mathematics student."
+  },
+  {
+    "title": "Filet-O-Fish",
+    "url": "/posts/filet-o-fish/",
+    "categories": "",
+    "tags": "migrated, writings",
+    "date": "2023-04-20 00:00:00 +0800",
+    "content": "Filet-O-Fish is the earliest McDonald’s sandwich I remember tasting. Everyone’s favourite food is their mama’s and, in a sense, Filet-O-Fish touches on an even deeper level. The fluffy soft bun per..."
+  },
+  {
     "title": "How I would teach maths to an uninitiated mind",
     "url": "/posts/child/",
     "categories": "education",
     "tags": "",
     "date": "2023-03-06 00:00:00 +0800",
     "content": "Don’t pull out the Soviet/French curriculum. We assume the average intelligence walking monkey.  Modern mathematics (for now at least) builds on sets. Of course mathematics is not all about studyin..."
+  },
+  {
+    "title": "Habits I learned from STEP",
+    "url": "/posts/habits-step/",
+    "categories": "",
+    "tags": "migrated",
+    "date": "2023-02-24 00:00:00 +0800",
+    "content": "I should recall what enabled me to do STEP problems nearly a year ago.          One equation per line           Clear, big writing           Leave space between letters and lines           Read the..."
+  },
+  {
+    "title": "Cream Soda",
+    "url": "/posts/cream-soda/",
+    "categories": "",
+    "tags": "migrated, writings",
+    "date": "2023-02-24 00:00:00 +0800",
+    "content": "The Cream Soda is perhaps among the most bizarre and perplexing human inventions. I have only tasted that green-and-yellow canned one by Schweppes but I would suspect my experiences coincide with d..."
   },
   {
     "title": "A neat trick with inverse trigonometric functions",
