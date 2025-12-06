@@ -3,7 +3,7 @@ layout: post
 title: "Construction of the Schramm-Loewner Evolution: A Review"
 date: 2025-05-20
 categories: maths
-tags: probability sle
+tags: sle
 math: true
 ---
 
