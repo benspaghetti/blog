@@ -4,7 +4,7 @@
   <id>https://www.peasantmaths.com/</id>
   <title>Peasant Maths</title>
   <subtitle>Incoherent ramblings of a maths undergrad</subtitle>
-  <updated>2025-12-07T03:14:30+08:00</updated>
+  <updated>2026-01-03T10:23:23+08:00</updated>
   <author>
     <name>Ben Zhang</name>
     <uri>https://www.peasantmaths.com/</uri>
@@ -13,10 +13,32 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="https://www.peasantmaths.com/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 Ben Zhang </rights>
+  <rights> © 2026 Ben Zhang </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Year 3 Fall at UBC</title>
+    <link href="https://www.peasantmaths.com/posts/y3fall/" rel="alternate" type="text/html" title="Year 3 Fall at UBC" />
+    <published>2026-01-01T00:00:00+08:00</published>
+  
+    <updated>2026-01-01T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/y3fall/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/y3fall/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I don’t really have much to write. Disinterested in most of my courses at UBC after midterm. Didn’t get a good GPA (probably because I only took courses ‘for culture’). Didn’t socialise at all. Vancouver is very nice except it rains way too much so it is not nice.  At least I have something (a lot of things) to do next term.  Went to Toronto and Montreal as well. Montreal is pretty good except ...</summary>
+
+  </entry>
 
   
   <entry>
@@ -68,7 +90,7 @@
     <link href="https://www.peasantmaths.com/posts/comments_on_sle_construction/" rel="alternate" type="text/html" title="Comments on &amp;quot;Construction of the Schramm-Loewner Evolution: A Review&amp;quot;" />
     <published>2025-06-05T00:00:00+08:00</published>
   
-    <updated>2025-06-05T00:00:00+08:00</updated>
+    <updated>2025-12-07T03:15:17+08:00</updated>
   
     <id>https://www.peasantmaths.com/posts/comments_on_sle_construction/</id>
     <content type="text/html" src="https://www.peasantmaths.com/posts/comments_on_sle_construction/" />
@@ -107,28 +129,6 @@
   
 
   <summary>I first learned about the theory of Schramm-Loewner Evolutions (SLE) after learning about the conjectured conformal invariance of two-dimensional critical percolation through the article Percolation: Slipping through the Cracks. This phenomenon on the triangular lattice has been proven by Stanislav Smirnov, which won him the Fields Medal. Now, more than a year later, I am finally learning the r...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Year 2 Fall at HKUST</title>
-    <link href="https://www.peasantmaths.com/posts/y2fall/" rel="alternate" type="text/html" title="Year 2 Fall at HKUST" />
-    <published>2025-01-20T00:00:00+08:00</published>
-  
-    <updated>2025-01-20T00:00:00+08:00</updated>
-  
-    <id>https://www.peasantmaths.com/posts/y2fall/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/y2fall/" />
-    <author>
-      <name>Ben Zhang</name>
-    </author>
-
-  
-    
-  
-
-  <summary>Hello and welcome to another session of pitiful self-reflection. I have already written a version of this on Zhihu, which is an account of what I have done in 2024 and my plans for the new year ahead. But I didn’t really go deep into anything in that post so I might as well write something.  TL;DR: I started strong this term, then suddenly my brain didn’t work for a month and fell off.  Actuall...</summary>
 
   </entry>
 
