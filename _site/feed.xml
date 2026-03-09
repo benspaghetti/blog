@@ -4,7 +4,7 @@
   <id>https://www.peasantmaths.com/</id>
   <title>Peasant Maths</title>
   <subtitle>Incoherent ramblings of a maths undergrad</subtitle>
-  <updated>2026-03-09T14:21:05+08:00</updated>
+  <updated>2026-03-09T14:30:03+08:00</updated>
   <author>
     <name>Ben Zhang</name>
     <uri>https://www.peasantmaths.com/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Good Percolation Exposition</title>
+    <link href="https://www.peasantmaths.com/posts/good_percolation_exposition/" rel="alternate" type="text/html" title="Good Percolation Exposition" />
+    <published>2026-03-09T00:00:00+08:00</published>
+  
+    <updated>2026-03-09T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/good_percolation_exposition/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/good_percolation_exposition/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Percolation: a Mathematical Phase Transition: The one that got me into percolation theory. Funnily, I didn’t click on it at first when it was recommended to be by the YouTube algorithm, but it was rather insistent and kept appearing on my front page for a few weeks. Finally, I budged, and that has led me to what I’m doing now.  Épisode 1 : Dans ma Cuisine… La percolation: Percolation of water t...</summary>
+
+  </entry>
 
   
   <entry>
@@ -103,30 +125,6 @@
   
 
   <summary>I started writing this on the first day of the summer term (June 16). Somehow I think my memory got even worse, I cannot remember much of what went on at the start of the semester. But what I can recall is that I was a bit distraught about the lack of courses. Originally, I was really looking forward to the course ‘Mathematical Structures in Modern Statistical Physics and Quantum Field Theory’,...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Comments on "Construction of the Schramm-Loewner Evolution: A Review"</title>
-    <link href="https://www.peasantmaths.com/posts/comments_on_sle_construction/" rel="alternate" type="text/html" title="Comments on &amp;quot;Construction of the Schramm-Loewner Evolution: A Review&amp;quot;" />
-    <published>2025-06-05T00:00:00+08:00</published>
-  
-    <updated>2025-12-07T03:15:17+08:00</updated>
-  
-    <id>https://www.peasantmaths.com/posts/comments_on_sle_construction/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/comments_on_sle_construction/" />
-    <author>
-      <name>Ben Zhang</name>
-    </author>
-
-  
-    
-    <category term="maths" />
-    
-  
-
-  <summary>On scaling limits in higher dimensions  A large part of the recent developments on the loop-erased random walk (LERW) have been focused on its scaling limit in three dimensions. As of now, the biggest problem is in describing this scaling limit directly in the continuum, analogous to the SLE in two dimensions. As far as I know, there is not much progress 1.  Footnotes                 Remark 1.5...</summary>
 
   </entry>
 
