@@ -4,7 +4,7 @@
   <id>https://www.peasantmaths.com/</id>
   <title>Peasant Maths</title>
   <subtitle>Incoherent ramblings of a maths undergrad</subtitle>
-  <updated>2026-01-03T10:23:23+08:00</updated>
+  <updated>2026-03-09T14:21:05+08:00</updated>
   <author>
     <name>Ben Zhang</name>
     <uri>https://www.peasantmaths.com/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Follow-up to A Survey of Personal Wiki Software</title>
+    <link href="https://www.peasantmaths.com/posts/wiki2/" rel="alternate" type="text/html" title="Follow-up to A Survey of Personal Wiki Software" />
+    <published>2026-03-06T00:00:00+08:00</published>
+  
+    <updated>2026-03-06T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/wiki2/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/wiki2/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>The article referred to in the title can be found at this link.  Since then, I have tried some more methods. Eventually, the one long document was broken up into many short ones. I had one or two for each course and often liveTeXed in class. Occasionally I would add hyperlinks between the documents (they were placed in the same folder). I would actually read my notes and refine them. I also put...</summary>
+
+  </entry>
 
   
   <entry>
@@ -105,30 +127,6 @@
   
 
   <summary>On scaling limits in higher dimensions  A large part of the recent developments on the loop-erased random walk (LERW) have been focused on its scaling limit in three dimensions. As of now, the biggest problem is in describing this scaling limit directly in the continuum, analogous to the SLE in two dimensions. As far as I know, there is not much progress 1.  Footnotes                 Remark 1.5...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Construction of the Schramm-Loewner Evolution: A Review</title>
-    <link href="https://www.peasantmaths.com/posts/sle_construction/" rel="alternate" type="text/html" title="Construction of the Schramm-Loewner Evolution: A Review" />
-    <published>2025-05-20T00:00:00+08:00</published>
-  
-    <updated>2025-12-07T03:00:36+08:00</updated>
-  
-    <id>https://www.peasantmaths.com/posts/sle_construction/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/sle_construction/" />
-    <author>
-      <name>Ben Zhang</name>
-    </author>
-
-  
-    
-    <category term="maths" />
-    
-  
-
-  <summary>I first learned about the theory of Schramm-Loewner Evolutions (SLE) after learning about the conjectured conformal invariance of two-dimensional critical percolation through the article Percolation: Slipping through the Cracks. This phenomenon on the triangular lattice has been proven by Stanislav Smirnov, which won him the Fields Medal. Now, more than a year later, I am finally learning the r...</summary>
 
   </entry>
 
