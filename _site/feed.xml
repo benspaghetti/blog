@@ -4,7 +4,7 @@
   <id>https://www.peasantmaths.com/</id>
   <title>Peasant Maths</title>
   <subtitle>Incoherent ramblings of a maths undergrad</subtitle>
-  <updated>2026-03-09T14:30:03+08:00</updated>
+  <updated>2026-06-24T11:24:55+08:00</updated>
   <author>
     <name>Ben Zhang</name>
     <uri>https://www.peasantmaths.com/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Year 3 Fall at HKUST</title>
+    <link href="https://www.peasantmaths.com/posts/y3spring/" rel="alternate" type="text/html" title="Year 3 Fall at HKUST" />
+    <published>2026-06-15T00:00:00+08:00</published>
+  
+    <updated>2026-06-15T00:00:00+08:00</updated>
+  
+    <id>https://www.peasantmaths.com/posts/y3spring/</id>
+    <content type="text/html" src="https://www.peasantmaths.com/posts/y3spring/" />
+    <author>
+      <name>Ben Zhang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>I sit now at Gate 42, Terminal 1, Hong Kong International Airport writing this. I am on my way to Monash University for a summer (or rather, winter) research experience, which I will also write about hopefully before September starts.  The final semester before graduate school applications has concluded. I must say again that I thought I had accomplished nothing the past year, yet when I think ...</summary>
+
+  </entry>
 
   
   <entry>
@@ -103,28 +125,6 @@
   
 
   <summary>It is funny writing this after my first week at UBC, but here we are. It is clear that this blog has gotten increasingly unhinged. Some divine power must have seen this and thought I was too cocky and gave me a complete failure of a summer.  I did a course on probability for engineers, I failed miserably. I did a UROP project, I failed miserably.  I am at the zeroth step of research: finding a ...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Year 2 Spring at HKUST</title>
-    <link href="https://www.peasantmaths.com/posts/y2spring/" rel="alternate" type="text/html" title="Year 2 Spring at HKUST" />
-    <published>2025-06-17T00:00:00+08:00</published>
-  
-    <updated>2025-06-17T00:00:00+08:00</updated>
-  
-    <id>https://www.peasantmaths.com/posts/y2spring/</id>
-    <content type="text/html" src="https://www.peasantmaths.com/posts/y2spring/" />
-    <author>
-      <name>Ben Zhang</name>
-    </author>
-
-  
-    
-  
-
-  <summary>I started writing this on the first day of the summer term (June 16). Somehow I think my memory got even worse, I cannot remember much of what went on at the start of the semester. But what I can recall is that I was a bit distraught about the lack of courses. Originally, I was really looking forward to the course ‘Mathematical Structures in Modern Statistical Physics and Quantum Field Theory’,...</summary>
 
   </entry>
 
